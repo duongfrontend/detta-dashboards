@@ -17,13 +17,14 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBuUR07oSu26x23v4zV3G6ZKUlR9InXRjo",
-  authDomain: "detta-stack.firebaseapp.com",
-  projectId: "detta-stack",
-  storageBucket: "detta-stack.appspot.com",
-  messagingSenderId: "281235499533",
-  appId: "1:281235499533:web:d92c3f0e8d40d42cad4344",
-  measurementId: "G-PVBCPV4YEW",
+  apiKey: "AIzaSyACZIs8WBEe7nG4Yvr4WU3tgp0qdJq43YI",
+  authDomain: "detta-shops.firebaseapp.com",
+  projectId: "detta-shops",
+  storageBucket: "detta-shops.appspot.com",
+  messagingSenderId: "445370690637",
+  appId: "1:445370690637:web:81692ca3a1c52b2b540004",
+  // eslint-disable-next-line comma-dangle
+  measurementId: "G-FNJDJK5VX4",
 };
 
 // Initialize Firebase
